@@ -1,5 +1,5 @@
 import csv
-import sys
+import sy
 import requests
 from bs4 import BeautifulSoup # type: ignore
 
