@@ -13,8 +13,9 @@ A concise collection of Python solutions and projects completed for the **Shadow
 │   └── 05_for_loops.py        # Dice roll simulation & jumping jacks tracker
 │
 ├── Task-2-Projects/           # Intermediate Level (Applications & Tools)
-│   ├── hangman/               # Interactive terminal-based Hangman game
-│   └── scraper/               # Web scraper with BeautifulSoup & CSV export
+│   ├── hangman.py             # Interactive terminal-based Hangman game
+│   ├── shadowfox_scraped_data.csv # Scraped data
+│   └── webscraper.py          # Web scraper with BeautifulSoup & CSV export
 │
 └── Task-3-Advanced-Analysis/  # Advanced Level (Data Analysis & EDA)
     └── eda_analysis.ipynb     # Exploratory Data Analysis notebook
