@@ -19,3 +19,6 @@ A concise collection of Python solutions and projects completed for the **Shadow
 │
 └── Task-3-Advanced-Analysis/  # Advanced Level (Data Analysis & EDA)
     └── eda_analysis.ipynb     # Exploratory Data Analysis notebook
+
+    
+This internship has officially concluded !
